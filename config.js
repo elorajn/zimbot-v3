@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','60199915725']
-global.premium = ['27634090203','60199915725']
+global.owner = ['27634090203','0199915725']
+global.premium = ['27634090203','0199915725']
 global.botname = 'ELORA BOT INC'
 global.ownername = 'ELORA'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
